@@ -2,3 +2,6 @@ node -v = check node version
 npm init -y = start node package manager
 json - java script object notation
 npm install express = install express.js in the folder
+ni server.js = open new file (NI - new item)
+node server.js = run the server file and show the output
+ctrl+c = stop running server
